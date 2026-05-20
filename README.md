@@ -36,7 +36,7 @@ I enjoy uncovering patterns, solving problems and presenting insights in a clear
 - Data Cleaning and Data Visualization techniques
 - Python for Data Analysis (Pandas, Numpy basics).
 
-### Soft Skills
+## Soft Skills
 - Problem Solving
 - Attention to Detail
 - Communication
